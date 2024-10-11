@@ -1,0 +1,15 @@
+P:\scripts\macos_win_management\win_management\bin\Debug\net8.0\win_management.exe
+P:\scripts\macos_win_management\win_management\bin\Debug\net8.0\win_management.deps.json
+P:\scripts\macos_win_management\win_management\bin\Debug\net8.0\win_management.runtimeconfig.json
+P:\scripts\macos_win_management\win_management\bin\Debug\net8.0\win_management.dll
+P:\scripts\macos_win_management\win_management\bin\Debug\net8.0\win_management.pdb
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.GeneratedMSBuildEditorConfig.editorconfig
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.AssemblyInfoInputs.cache
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.AssemblyInfo.cs
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.csproj.CoreCompileInputs.cache
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.sourcelink.json
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.dll
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\refint\win_management.dll
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.pdb
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\win_management.genruntimeconfig.cache
+P:\scripts\macos_win_management\win_management\obj\Debug\net8.0\ref\win_management.dll
